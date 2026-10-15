@@ -1,0 +1,1 @@
+year,month,day_of_month,day_of_week,op_unique_carrier,op_carrier_fl_num,origin,dest,crs_dep_time,crs_arr_time,crs_elapsed_time,distance,airline,ORIGIN_CITY,DEST_CITY,TAXI_OUT,WHEELS_OFF,WHEELS_ON,TAXI_IN,CANCELLATION_CODE,flight_year,flight_month,flight_day,flight_dayofweek,crs_dep_hour,is_peak_hour,delay_target
